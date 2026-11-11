@@ -83,8 +83,6 @@ http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
 http://111.63.117.13:6060/030000001000/SDWS/SDWS.m3u8
 #EXTINF:-1 ,山西卫视
 http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
-#EXTINF:-1 ,陕西卫视
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shanxi1stv/1.m3u8?channel-id=ystenlive&Contentid=shanxi1stv&livemode=1
 #EXTINF:-1 ,深圳卫视
 http://111.63.117.13:6060/030000001000/G_SHENZHEN/G_SHENZHEN.m3u8
 #EXTINF:-1 ,四川卫视
