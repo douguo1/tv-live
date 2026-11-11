@@ -35,8 +35,6 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-15/1.m3u8?chan
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-cctv16&livemode=1
 #EXTINF:-1 ,CCTV17
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-cctv17&livemode=1
-#EXTINF:-1 ,====== 卫视,#genre# ======
-http://1/1.m3u8
 #EXTINF:-1 ,安徽卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8?channel-id=ystenlive&Contentid=anhuistv&livemode=1
 #EXTINF:-1 ,北京卫视
@@ -99,8 +97,6 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xinjiangstv/1.m3u8?
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/yunnanstv/1.m3u8?channel-id=ystenlive&Contentid=yunnanstv&livemode=1
 #EXTINF:-1 ,浙江卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8?channel-id=ystenlive&Contentid=zhejiangstv&livemode=1
-#EXTINF:-1 ,====== 地方,#genre# ======
-http://2/2.m3u8
 #EXTINF:-1 ,北京纪实科教
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-beijingjishi&livemode=1
 #EXTINF:-1 ,北京KAKU少儿
