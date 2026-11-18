@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== 央视,#genre# ======
-http://0/0.m3u8
 #EXTINF:-1 ,CCTV1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
 #EXTINF:-1 ,CCTV2
@@ -55,8 +53,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227455/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1 ,CCTV17
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8
-#EXTINF:-1 ,====== 卫视,#genre# ======
-http://1/1.m3u8
 #EXTINF:-1 ,安徽卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
 #EXTINF:-1 ,安徽卫视
