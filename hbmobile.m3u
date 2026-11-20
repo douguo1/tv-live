@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== 央视,#genre# ======
-http://0/0.m3u8
 #EXTINF:-1 ,CCTV1
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8?channel-id=ystenlive&Contentid=cctv-1&livemode=1
 #EXTINF:-1 ,CCTV1
@@ -77,8 +75,6 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv
 http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV-17.m3u8
 #EXTINF:-1 ,CCTV17
 http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV17.m3u8
-#EXTINF:-1 ,====== 卫视,#genre# ======
-http://1/1.m3u8
 #EXTINF:-1 ,安徽卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8?channel-id=ystenlive&Contentid=anhuistv&livemode=1
 #EXTINF:-1 ,安徽卫视
@@ -203,8 +199,6 @@ http://111.63.117.13:6060/030000001000/G_YUNNAN/G_YUNNAN.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8?channel-id=ystenlive&Contentid=zhejiangstv&livemode=1
 #EXTINF:-1 ,浙江卫视
 http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
-#EXTINF:-1 ,====== 地方,#genre# ======
-http://2/2.m3u8
 #EXTINF:-1 ,北京纪实科教
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-beijingjishi&livemode=1
 #EXTINF:-1 ,北京KAKU少儿
@@ -225,85 +219,9 @@ http://111.63.117.13:6060/030000001000/G_JIAJIA/G_JIAJIA.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jinyingkaton/1.m3u8?channel-id=ystenlive&Contentid=jinyingkaton&livemode=1
 #EXTINF:-1 ,金鹰卡通
 http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
-#EXTINF:-1 ,====== 教育,#genre# ======
-http://3/3.m3u8
 #EXTINF:-1 ,CETV1
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiaoyutv/1.m3u8?channel-id=ystenlive&Contentid=jiaoyutv&livemode=1
 #EXTINF:-1 ,CETV4
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-4000k-576P-jiaoyutv4/1.m3u8?channel-id=ystenlive&Contentid=SD-4000k-576P-jiaoyutv4&livemode=1
 #EXTINF:-1 ,山东教育卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongjy/1.m3u8?channel-id=ystenlive&Contentid=shandongjy&livemode=1
-#EXTINF:-1 ,====== 其它,#genre# ======
-http://4/4.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/aiqingxj/1.m3u8?channel-id=ystenlive&Contentid=aiqingxj&livemode=1
-#EXTINF:-1 ,潮妈辣婆
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-1500k-720P-cmlapo/1.m3u8?channel-id=ystenlive&Contentid=HD-1500k-720P-cmlapo&livemode=1
-#EXTINF:-1 ,哒啵电竞
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dabodj/1.m3u8?channel-id=ystenlive&Contentid=dabodj&livemode=1
-#EXTINF:-1 ,哒啵赛事
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/wmyx/1.m3u8?channel-id=ystenlive&Contentid=wmyx&livemode=1
-#EXTINF:-1 ,动作电影
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8?channel-id=ystenlive&Contentid=dongzuody&livemode=1
-#EXTINF:-1 ,放心购
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-kuailegw/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-kuailegw&livemode=1
-#EXTINF:-1 ,风尚购物
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/fengshanggw/1.m3u8?channel-id=ystenlive&Contentid=fengshanggw&livemode=1
-#EXTINF:-1 ,古装剧场
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guzhuangjc/1.m3u8?channel-id=ystenlive&Contentid=guzhuangjc&livemode=1
-#EXTINF:-1 ,好享购物
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-haoxianggw/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-haoxianggw&livemode=1
-#EXTINF:-1 ,黑莓电影
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdianying/1.m3u8?channel-id=ystenlive&Contentid=jdianying&livemode=1
-#EXTINF:-1 ,黑莓动画
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/donghuawg/1.m3u8?channel-id=ystenlive&Contentid=donghuawg&livemode=1
-#EXTINF:-1 ,环球购物
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-huanqiugw/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-huanqiugw&livemode=1
-#EXTINF:-1 ,家庭剧场
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiatingjc/1.m3u8?channel-id=ystenlive&Contentid=jiatingjc&livemode=1
-#EXTINF:-1 ,家有购物
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-jiayougw/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-jiayougw&livemode=1
-#EXTINF:-1 ,金牌综艺
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/saishijx/1.m3u8?channel-id=ystenlive&Contentid=saishijx&livemode=1
-#EXTINF:-1 ,惊悚悬疑
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingsongxy/1.m3u8?channel-id=ystenlive&Contentid=jingsongxy&livemode=1
-#EXTINF:-1 ,精品大剧
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdaju/1.m3u8?channel-id=ystenlive&Contentid=jdaju&livemode=1
-#EXTINF:-1 ,精品纪录
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinjl/1.m3u8?channel-id=ystenlive&Contentid=jingpinjl&livemode=1
-#EXTINF:-1 ,精品萌宠
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinmc/1.m3u8?channel-id=ystenlive&Contentid=jingpinmc&livemode=1
-#EXTINF:-1 ,精品体育
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jtiyu/1.m3u8?channel-id=ystenlive&Contentid=jtiyu&livemode=1
-#EXTINF:-1 ,精品综合
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/mingxingdp/1.m3u8?channel-id=ystenlive&Contentid=mingxingdp&livemode=1
-#EXTINF:-1 ,军旅剧场
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junlvjc/1.m3u8?channel-id=ystenlive&Contentid=junlvjc&livemode=1
-#EXTINF:-1 ,军事评论
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junshipl/1.m3u8?channel-id=ystenlive&Contentid=junshipl&livemode=1
-#EXTINF:-1 ,咪咕精彩足球
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-miguaoyun1&livemode=1
-#EXTINF:-1 ,咪咕全民热练
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-quanminrl&livemode=1
-#EXTINF:-1 ,咪咕综合体育
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-miguaoyun2&livemode=1
-#EXTINF:-1 ,农业致富
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/nongyezf/1.m3u8?channel-id=ystenlive&Contentid=nongyezf&livemode=1
-#EXTINF:-1 ,热播精选
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xiqumd/1.m3u8?channel-id=ystenlive&Contentid=xiqumd&livemode=1
-#EXTINF:-1 ,武搏世界
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-bokesen/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-bokesen&livemode=1
-#EXTINF:-1 ,炫动卡通
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xuandongkaton/1.m3u8?channel-id=ystenlive&Contentid=xuandongkaton&livemode=1
-#EXTINF:-1 ,炫舞未来
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-xwwl/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-xwwl&livemode=1
-#EXTINF:-1 ,严选购物
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-yanxuangw/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-yanxuangw&livemode=1
-#EXTINF:-1 ,怡伴健康
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/ljiankangyouyue/1.m3u8?channel-id=ystenlive&Contentid=ljiankangyouyue&livemode=1
-#EXTINF:-1 ,优漫卡通
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/youmankaton/1.m3u8?channel-id=ystenlive&Contentid=youmankaton&livemode=1
-#EXTINF:-1 ,优漫卡通
-http://111.63.117.13:6060/030000001000/G_YOUMAN/G_YOUMAN.m3u8
-#EXTINF:-1 ,中国功夫
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-gzkongfu&livemode=1
